@@ -1,0 +1,18 @@
+export const skills = [
+  'C#',
+  '.NET Framework',
+  '.NET Core',
+  'ASP.NET Core',
+  'APIs REST',
+  'SQL Server',
+  'SAP HANA',
+  'Entity Framework',
+  'Git',
+  'Postman',
+  'Angular',
+  'React',
+  'TypeScript',
+  'Docker básico',
+  'Microsserviços',
+  'Clean Code',
+];
